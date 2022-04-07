@@ -4,7 +4,7 @@
 
 Актуальную версию можно найти тут: https://git.io/JqkMh
 Если короткая ссылка не работает, тут: https://github.com/Du10777/RfMW
-Список изменений можно найти тут: https://github.com/Du10777/RfMW/commit
+Список изменений можно найти тут: https://github.com/Du10777/RfMW/commits
 Обратную связь можно писать на почту: du10 (at) bk (dot) ru
 
 
